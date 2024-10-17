@@ -23,8 +23,6 @@ I'm an indie developer learning and building myself up. All coding projects are 
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/QuestionableCreation?color=555555&style=for-the-badge&labelColor=0B6623&logo=star"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/QuestionableCreation-profile-views"/></a>
-  <a href="https://github.com/QuestionableCreation/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/QuestionableCreation-profile-views"/></a>
 </p>
 
 
