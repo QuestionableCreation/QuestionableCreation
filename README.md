@@ -21,8 +21,7 @@ I'm an indie developer learning and building myself up. All coding projects are 
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/QuestionableCreation?color=555555&labelColor=0041c2&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/QuestionableCreation?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/QuestionableCreation?color=555555&style=for-the-badge&labelColor=0B6623&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/QuestionableCreation-profile-views"/></a>
+
 </p>
 
 
