@@ -24,4 +24,5 @@ I'm an indie developer learning and building myself up. All coding projects are 
 
 </p>
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuestionableCreation&show_icons=true&theme=transparent)
 
